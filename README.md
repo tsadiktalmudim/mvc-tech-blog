@@ -29,7 +29,7 @@
 
 ## Links
 - [Github repo](https://github.com/tsadiktalmudim/mvc-tech-blog)
-- [Deployed application](https://obscure-brook-13370.herokuapp.com/)
+- [Deployed application](https://shielded-wave-15469.herokuapp.com/)
 
 
 
